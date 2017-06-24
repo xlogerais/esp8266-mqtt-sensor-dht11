@@ -1,6 +1,0 @@
-{
-  "mqtt_server":"mqtt",
-  "mqtt_port":"1883",
-  "module_name":"chambre2"
-}
-
